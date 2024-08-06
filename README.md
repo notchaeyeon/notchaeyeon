@@ -63,10 +63,10 @@ E-mail : dkscodus5060@gmail.com
   <a href="https://www.instagram.com/not_chaeyeon" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 
-<a href="https://www.notion.so/Notchaeyeon" target="_blank">
+<a href="https://www.notion.so/bf0d9ef58f8648c58b67aedb905d2748?pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 
-<a href="https://velog.io/@Notchaeyeon" target="_blank">
+<a href="https://velog.io/@dkscodus5060/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
 
 <a href="mailto:dkscodus5060@gmail.com" target="_blank">
