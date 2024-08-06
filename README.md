@@ -54,12 +54,12 @@ E-mail : dkscodus5060@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notchaeyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  ### 🌱 My cutie lawn
-  <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+<!--   ### 🌱 My cutie lawn
+ <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/> 
+ -->  
 
 
-  
-  ### 📬 Contact me 
+ ### 📬 Contact me 
   <a href="https://www.instagram.com/not_chaeyeon" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 
