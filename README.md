@@ -13,7 +13,7 @@ E-mail : dkscodus5060@gmail.com
   - B.S. degree expected in Computer Science   
 
   ### 🪪 Certifications
-  Certified Investment Manager, May. 2025
+  Certified Investment Manager, May. 2025 
   TOEIC Speaking (IH), Aug. 2025
 
   ### 💼 Work Experience
