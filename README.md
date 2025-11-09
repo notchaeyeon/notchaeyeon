@@ -31,6 +31,10 @@ E-mail : dkscodus5060@gmail.com
   - Provided educational support and tutoring for children.
   - Supported children's psychological well-being through play-based learning activities.
   - Fostered a supportive and positive learning environment.
+
+  💡 My interests  
+  - Backend Development with Financial Systems  
+  - Financial Data Analysis and Machine Learning  
     
   <div align = "center">
     
