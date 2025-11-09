@@ -14,6 +14,7 @@ E-mail : dkscodus5060@gmail.com
 
   ### 🪪 Certifications
   Certified Investment Manager, May. 2025 
+  
   TOEIC Speaking (IH), Aug. 2025
 
   ### 💼 Work Experience
