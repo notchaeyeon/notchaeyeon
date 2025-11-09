@@ -8,17 +8,17 @@ E-mail : dkscodus5060@gmail.com
 
 
   ### 📝 Education 
-  Hanyang University at Ansan (March 2021 - present)   
+  Hanyang University at Ansan (Mar. 2021 – Feb. 2026, expected)   
   - B.A. degree expected in Economics   
   - B.S. degree expected in Computer Science   
 
 
   ### 💼 Work Experience
-  July 2024 - December 2024 | **Internship - Data Construction and Delivery**
+  July 2024 - February 2025 | **Internship - Data Construction and Delivery**
   - Participated in practical training as a PA.
   - Involved in data pipeline construction projects.
   
-  January 2024 - June 2024 | **English Instructor, Large Academy**
+  January 2024 - June 2024 | **Academy Instructor**
   - Taught English to students of various levels.
   - Developed and implemented effective teaching strategies.
   - Assisted students in improving their English proficiency.
