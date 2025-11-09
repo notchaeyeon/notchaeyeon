@@ -12,23 +12,19 @@ E-mail : dkscodus5060@gmail.com
   - B.A. degree expected in Economics   
   - B.S. degree expected in Computer Science   
 
+  ### 🪪 Certifications
+  Certified Investment Manager, May. 2025
+  TOEIC Speaking (IH), Aug. 2025
 
   ### 💼 Work Experience
   July 2024 - February 2025 | **Internship - Data Construction and Delivery**
   - Participated in practical training as a PA.
   - Involved in data pipeline construction projects.
   
-  January 2024 - June 2024 | **Academy Instructor**
-  - Taught English to students of various levels.
+  March 2021 - June 2024 | **Instructor - KR SAT Mathematics & English**
+  - Taught Mathematics & English to students of various levels.
   - Developed and implemented effective teaching strategies.
-  - Assisted students in improving their English proficiency.
-  
-  March 2021 - December 2023 | **Private Tutor - SAT Mathematics**
-  - Provided specialized tutoring for SAT Mathematics.
   - Customized lesson plans to meet individual student needs.
-  - Helped students achieve significant improvements in their test scores.
-
-    
 
   ### 📚 Volunteer Work
   March 2024 - Present | **Volunteer Tutor, Heymyung Nursery school at Seoul**
