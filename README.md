@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=b0ff92&fontColor=272727&height=300&section=header&text=WELCOME%20TO%20CHAEYEON's%20GITHUB%20&fontSize=30)
 
-**기술에 온기를 더하는 개발자, 안채연입니다.**
-
 Name : Chaeyeon An  
 Birth : 2003.01.27  
 E-mail : chaeyeon.an4w@gmail.com
